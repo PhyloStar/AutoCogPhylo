@@ -3,5 +3,7 @@ Repository for testing how good Bayesian phylogenetic algorithms fare with autom
 
 #Generating nexus files
 > python3 <program> <data file> <output file name>
+
 > python3 online_pmi.py data/IELex-2016.tsv.asjp ielex_pmi
+
 > python3 ldn_cluster.py data/IELex-2016.tsv.asjp ielex_ldn
