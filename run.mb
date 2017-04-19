@@ -1,0 +1,9 @@
+begin MrBayes;
+exec current.nex;
+lset rates=gamma;
+prset brlenspr = clock:uniform;
+prset clockvarpr = igr;
+mcmc ngen=4000000 filename = current.igr;
+sump;
+sumt;
+end;
