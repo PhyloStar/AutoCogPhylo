@@ -12,11 +12,11 @@ random.seed(1234)
 ##Separate clustering code.
 ##Add doculect distance as regularization
 
-MAX_ITER = 10
+MAX_ITER = 15
 tolerance = 0.001
-infomap_threshold = 0.67
+infomap_threshold = 0.57
 min_batch = 256
-margin = 1.0
+margin = 0.0
 
 dataname = sys.argv[1]
 outname = sys.argv[2]
@@ -44,7 +44,8 @@ def clean_word(w):
     w = w.replace("_","")
     w = w.replace("<","")
     w = w.replace(">","")
-    #w = w.replace("‐","")
+    w = w.replace("/","")
+    w = w.replace("‐","")
     #w = w.replace("ᶢ","")
    # w = w.replace("C","c")
    # w = w.replace("L","l")
@@ -170,7 +171,7 @@ def infomap_concept_evaluate_scores(d, lodict, gop, gep):
             ldn_dist_dict[l1][l2] = score
             ldn_dist_dict[l2][l1] = ldn_dist_dict[l1][l2]
         distMat = np.array([[ldn_dist_dict[ka][kb] for kb in langs] for ka in langs])
-        clust = igraph_clustering(distMat, infomap_threshold, method='labelprop')
+        clust = igraph_clustering(distMat, infomap_threshold, method='infomap')
         
         
         predicted_labels = defaultdict()
@@ -256,6 +257,7 @@ for concept in data_dict:
         words.append(data_dict[concept][idx])
     for x, y in it.combinations(words, r=2):
         #if distances.nw(x, y, lodict=None, gp1=-2.5,gp2=-1.75)[0] > 0.0:
+        #    word_list += [[x,y]]
         if distances.ldn(x, y) <=0.5:
             word_list += [[x,y]]
 
