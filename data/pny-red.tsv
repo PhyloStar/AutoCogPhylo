@@ -2441,7 +2441,7 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 3796	Mayi-Yapi	BREAST	t̪ a m b u	mayi1235	1642
 3797	Mayi-Yapi	BREAST	t̪ a m b u	mayi1235	1642
 3798	Mbabaram	BREAST	ŋ a mː oː n	mbab1239	1644
-3799	Anguthimri	BREAST	ɲ d c u ? u	angu1242	1645
+3799	Anguthimri	BREAST	ɲ d c u ?/ʔ u	angu1242	1645
 3800	Minjungbal	BREAST	u mː a	minj1242	1614
 3801	Kalarko	BREAST	k u ɳ t u	kala1379	1617
 3802	Mithaka	BREAST	ŋ a m a	mith1236	1614
@@ -3011,7 +3011,7 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 4424	Dhangu	CLIMB	ɖ u w a ʈ	dhan1270	1
 4425	Sydney	CLIMB	k a l u a	sydn1236	1955
 4426	Dayi	CLIMB	ŋ a l ʔʲ u n	dayi1244	1946
-4427	Dhudhuroa	CLIMB	g a r i g a l a ?	dhud1236	1975
+4427	Dhudhuroa	CLIMB	g a r i g a l a ?/ʔ	dhud1236	1975
 4428	Dhurga	CLIMB	k u l ʔ l a w a l g a	dhur1239	1955
 4429	Dhuwal	CLIMB	ɖ u w a ʈ	dhuw1249	1
 4431	Dieri	CLIMB	k a r i	dier1241	1956
@@ -3320,7 +3320,7 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 4762	Arabana	COLD	m a d l i	arab1267	2107
 4763	Awabakal	COLD	k u ɹ k u ɹ	awab1243	2122
 4764	Badimaya	COLD	m u ɖ i	badi1246	2170
-4765	Badjiri	COLD	g u g a l ?	badj1244	2133
+4765	Badjiri	COLD	g u g a l ?/ʔ	badj1244	2133
 4766	Yugambeh-Bandjalang	COLD	w o ɹ u ŋ	band1339	2148
 4767	Kabikabi	COLD	w a l a j	kabi1260	1
 4768	Southern Maric	COLD	m u l a	sout2765	2154
@@ -3334,7 +3334,7 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 4776	Dhangu	COLD	g u j i ŋ a r	dhan1270	2099
 4777	Thurawal	COLD	m a iː n	thur1254	2123
 4778	Sydney	COLD	t u gː e ɹ a h	sydn1236	2120
-4779	Dharumbal	COLD	b a t̪ a l ?	dhar1248	2140
+4779	Dharumbal	COLD	b a t̪ a l ?/ʔ	dhar1248	2140
 4780	Dayi	COLD	g u j ŋ a r t̪ i r	dayi1244	2099
 4781	Dhudhuroa	COLD	b o u w a t̪ a	dhud1236	2116
 4782	Dhurga	COLD	d h u g ʔ g a ɹ	dhur1239	2120
@@ -3756,10 +3756,10 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 5235	Ngaanyatjarra	COOK (SOMETHING)	t a ŋ k a l k u	ngaa1240	2294
 5236	Ngaanyatjarra	COOK (SOMETHING)	w i t a l k u	ngaa1240	2294
 5237	Ngaanyatjarra	COOK (SOMETHING)	j u ɳ m i l k u	ngaa1240	2294
-5238	Ngadjunmaya	COOK (SOMETHING)	w o ? a n a	ngad1258	2320
-5239	Ngadjunmaya	COOK (SOMETHING)	w o ? u n a	ngad1258	2320
-5240	Ngadjunmaya	COOK (SOMETHING)	u ? u n i	ngad1258	2320
-5241	Ngadjunmaya	COOK (SOMETHING)	j u ? u n a	ngad1258	2320
+5238	Ngadjunmaya	COOK (SOMETHING)	w o ?/ʔ a n a	ngad1258	2320
+5239	Ngadjunmaya	COOK (SOMETHING)	w o ?/ʔ u n a	ngad1258	2320
+5240	Ngadjunmaya	COOK (SOMETHING)	u ?/ʔ u n i	ngad1258	2320
+5241	Ngadjunmaya	COOK (SOMETHING)	j u ?/ʔ u n a	ngad1258	2320
 5242	Lower Riverland	COOK (SOMETHING)	ŋ a ŋ u a ŋ k o	lowe1402	2303
 5243	Ngamini	COOK (SOMETHING)	k u k i	ngam1284	2290
 5244	Ngarinman	COOK (SOMETHING)	g a m b a ɳ i	ngar1235	2294
@@ -4206,7 +4206,7 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 5725	Mayi-Yapi	CUT	p a ɹ i l a	mayi1235	2512
 5726	Mayi-Yapi	CUT	p a ɹ i l a	mayi1235	2512
 5727	Mbabaram	CUT	n d o	mbab1239	2517
-5728	Anguthimri	CUT	ʔ w e ? e	angu1242	1
+5728	Anguthimri	CUT	ʔ w e ?/ʔ e	angu1242	1
 5729	Minjungbal	CUT	g a l g a	minj1242	2516
 5730	Kalarko	CUT	k a ʈ u	kala1379	2482
 5731	Mithaka	CUT	d a m a	mith1236	2477
@@ -4347,7 +4347,7 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 47294	Mayaguduna	DAY (NOT NIGHT)	m a n d c a	maya1280	1
 47295	Mayi-Yapi	DAY (NOT NIGHT)	w i n c a	mayi1235	1
 47296	Mbabaram	DAY (NOT NIGHT)	ŋ i lː a	mbab1239	1
-47297	Anguthimri	DAY (NOT NIGHT)	n d r w a ? a ɹ a	angu1242	1
+47297	Anguthimri	DAY (NOT NIGHT)	n d r w a ?/ʔ a ɹ a	angu1242	1
 47298	Kalarko	DAY (NOT NIGHT)	p a n k a ʈ a	kala1379	1
 47299	Muruwari	DAY (NOT NIGHT)	t̪ a l u	muru1266	1
 47300	Narungga	DAY (NOT NIGHT)	g u ɹ a	naru1238	1
@@ -4376,7 +4376,7 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 47324	Pirriya	DAY (NOT NIGHT)	m u r i	pirr1240	1
 47325	Dhargari	DAY (NOT NIGHT)	c u ɹ u g a	dhar1247	1
 47326	Umpila	DAY (NOT NIGHT)	k a m p a l a m a	umpi1239	1
-47327	Wajarri	DAY (NOT NIGHT)	? t̪ u ɹ i ŋ a ?	waja1257	1
+47327	Wajarri	DAY (NOT NIGHT)	?/ʔ t̪ u ɹ i ŋ a ?/ʔ	waja1257	1
 47328	Wangganguru	DAY (NOT NIGHT)	k a r a r eː	wang1290	1
 47329	Wanggamala	DAY (NOT NIGHT)	w i l u k a	wang1289	1
 47330	Ngura	DAY (NOT NIGHT)	m u ɹ a	ngur1261	1
@@ -5490,7 +5490,7 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 7811	Mayi-Yapi	EAR	p i n a r	mayi1235	3328
 7812	Mayi-Yapi	EAR	p i n a r	mayi1235	3328
 7813	Mbabaram	EAR	b iː	mbab1239	3324
-7814	Anguthimri	EAR	w a ? a	angu1242	3330
+7814	Anguthimri	EAR	w a ?/ʔ a	angu1242	3330
 7815	Minjungbal	EAR	p i nː u ŋ	minj1242	3328
 7816	Kalarko	EAR	k u l a j a	kala1379	3301
 7817	Mithaka	EAR	ŋ a ɹ a	mith1236	3334
@@ -6315,7 +6315,7 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 8903	Dhurga	FALL	g oː ŋ ʔ o b a l eː n	dhur1239	3655
 8904	Dhuwal	FALL	g a l k i r i	dhuw1249	3658
 8906	Dieri	FALL	p u r i	dier1241	3609
-8907	Dyaabugay	FALL	j a n a j ?	dyaa1242	3665
+8907	Dyaabugay	FALL	j a n a j ?/ʔ	dyaa1242	3665
 8908	Djambarrpuyngu	FALL	g a l k i r i	djam1256	3658
 8909	Djapu	FALL	b u r ʔ p u r j u n	djap1238	1
 8910	Djinang	FALL	g a l m i d c i	djin1253	3679
@@ -6607,8 +6607,8 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 27815	Dhangu	FASTEN	g a r p i j u n	dhan1270	11890
 27816	Sydney	FASTEN	ŋ a r a	sydn1236	11863
 27817	Dayi	FASTEN	ɖ a p m a ɹ a m	dayi1244	11847
-27818	Dhudhuroa	FASTEN	g u n a ?	dhud1236	11868
-27819	Dhudhuroa	FASTEN	g a n a ?	dhud1236	11868
+27818	Dhudhuroa	FASTEN	g u n a ?/ʔ	dhud1236	11868
+27819	Dhudhuroa	FASTEN	g a n a ?/ʔ	dhud1236	11868
 27820	Dhurga	FASTEN	ŋ a ʔ ɹ a g a	dhur1239	11884
 27821	Dhuwal	FASTEN	g a r w i ʔʲ u n	dhuw1249	11890
 27823	Dieri	FASTEN	w a ɹ k a m a n r a	dier1241	11874
@@ -9406,7 +9406,7 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 11458	Mayi-Yapi	GRASS	t c i l k v ɹ u w a p a ɹ i	mayi1235	4741
 11459	Mayi-Yapi	GRASS	t c i l k v ɹ u w a p a ɹ i	mayi1235	4741
 11460	Mbabaram	GRASS	a l g u	mbab1239	4747
-11461	Anguthimri	GRASS	n̪ d̪ a ? a	angu1242	4699
+11461	Anguthimri	GRASS	n̪ d̪ a ?/ʔ a	angu1242	4699
 11462	Minjungbal	GRASS	e c u ŋ	minj1242	4731
 11463	Kalarko	GRASS	j u ɭ k a	kala1379	4749
 11464	Mithaka	GRASS	k a n t̪ a	mith1236	4699
@@ -9686,7 +9686,7 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 11761	Mayi-Yapi	HAIR	w a ɹ u m b u	mayi1235	4869
 11762	Mayi-Yapi	HAIR	w a ɹ u m b u	mayi1235	4869
 11763	Mbabaram	HAIR	w iː r	mbab1239	4865
-11764	Anguthimri	HAIR	? j a	angu1242	4827
+11764	Anguthimri	HAIR	?/ʔ j a	angu1242	4827
 11765	Minjungbal	HAIR	b o w ɹ a	minj1242	4826
 11766	Kalarko	HAIR	p a ɭ k a p i t i	kala1379	4814
 11768	Mudburra	HAIR	w i ɲ c a l m a	mudb1240	4831
@@ -9863,7 +9863,7 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 11956	Mayi-Yapi	HAND	m a l i ɹ u	mayi1235	4936
 11957	Mayi-Yapi	HAND	m a l i ɹ u	mayi1235	4936
 11958	Mbabaram	HAND	n̪ d̪ ɨ	mbab1239	4933
-11959	Anguthimri	HAND	? a	angu1242	4936
+11959	Anguthimri	HAND	?/ʔ a	angu1242	4936
 11960	Minjungbal	HAND	t u ŋ u n	minj1242	4926
 11961	Kalarko	HAND	m a ɹ a	kala1379	4936
 11962	Mithaka	HAND	m a ɖ a	mith1236	4936
@@ -11050,7 +11050,7 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 19698	Warlpiri	HIT	l u w a ɳ i	warl1254	5266
 19699	Warluwara	HIT	k u l i r i	warl1256	5302
 19700	Wanman	HIT	p u &/e	wanm1242	5282
-19701	Wariyangga	HIT	p a c a ?	wari1262	5294
+19701	Wariyangga	HIT	p a c a ?/ʔ	wari1262	5294
 19702	Warumungu	HIT	w a l p u n c c a n	waru1265	5328
 19703	Warrungo	HIT	g u n i	waru1264	5301
 19704	Wathawurrung	HIT	d a n d a r a ŋ g i j t	wath1238	5283
@@ -11202,7 +11202,7 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 13122	Biri	HOUSE	g u g a	biri1256	5408
 13123	Birrpayi	HOUSE	b a r j	birr1241	5436
 13124	Bularnu	HOUSE	g u n t i	bula1255	5396
-13125	Bunganditj	HOUSE	n a t m u e ? _ w u ɭ a _ c	bung1264	5402
+13125	Bunganditj	HOUSE	n a t m u e ?/ʔ _ w u ɭ a _ c	bung1264	5402
 13126	Colac	HOUSE	m a ŋ e t	cola1237	5433
 13127	Dhangu	HOUSE	b a l a ʔ	dhan1270	5443
 13128	Thurawal	HOUSE	ŋ u ɹ a	thur1254	5412
@@ -11360,11 +11360,11 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 13291	Northern Inland Yui	HOW	w a n c a n	nort2760	5476
 13292	Gupapuyngu	HOW	ŋ a t̪ i l i	gupa1247	1
 13293	Gurindji	HOW	w a ɲ c i ɭ i	guri1247	5476
-13294	Guugu Yimidhirr	HOW	w o n d a ɹ a ?	gugu1255	1
+13294	Guugu Yimidhirr	HOW	w o n d a ɹ a ?/ʔ	gugu1255	1
 13295	Sydney	HOW	w i j a l i ŋ	sydn1236	1
 13296	Jaru	HOW	ɲ a r a	jaru1254	5480
 13298	Kalkutung	HOW	n̪ a k a t̪ i	kalk1246	5459
-13299	Gamilaraay	HOW	gʷ i r a ɹ ?	gami1243	5458
+13299	Gamilaraay	HOW	gʷ i r a ɹ ?/ʔ	gami1243	5458
 13300	Karadjeri	HOW	w a ɲ c a r a	kara1476	5476
 13302	Kariyarra	HOW	ŋ a n i w i l a	kari1304	5470
 13303	Kartujarra	HOW	w a ɲ c a l p a	kart1247	5476
@@ -11380,10 +11380,10 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 13315	Mayi-Thakurti	HOW	ŋ a n i ŋ g u	mayi1234	5469
 13316	Mayi-Thakurti	HOW	ŋ a n i ŋ g u	mayi1234	5469
 13317	Mudburra	HOW	ŋ a d a r a	mudb1240	5446
-13319	Ngaanyatjarra	HOW	ɲ aː l t c i ɲ aː l t c i ?	ngaa1240	5477
-13320	Ngaanyatjarra	HOW	j aː l t c i ?	ngaa1240	5477
-13321	Ngaanyatjarra	HOW	j aː l t c i w a n a ?	ngaa1240	5477
-13322	Ngaanyatjarra	HOW	j aː l t c i j aː l t c i ?	ngaa1240	5477
+13319	Ngaanyatjarra	HOW	ɲ aː l t c i ɲ aː l t c i ?/ʔ	ngaa1240	5477
+13320	Ngaanyatjarra	HOW	j aː l t c i ?/ʔ	ngaa1240	5477
+13321	Ngaanyatjarra	HOW	j aː l t c i w a n a ?/ʔ	ngaa1240	5477
+13322	Ngaanyatjarra	HOW	j aː l t c i j aː l t c i ?/ʔ	ngaa1240	5477
 13323	Ngamini	HOW	w a n a n d a	ngam1284	5467
 13324	North-western Warlpiri	HOW	ɲ a r p a	nort2753	5480
 13325	Ngarla	HOW	w a j i r u	ngar1296	5466
@@ -11411,19 +11411,19 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 13347	Wajarri	HOW	j a l j c u	waja1257	5477
 13348	Wagaya	HOW	w i n t̪ a m i ɳ i	waga1260	5474
 13350	Wanggamala	HOW	t̪ i l a p a d a	wang1289	5472
-13351	Ngura	HOW	ŋ a l a m a d a ?	ngur1261	5462
+13351	Ngura	HOW	ŋ a l a m a d a ?/ʔ	ngur1261	5462
 13352	Wardandi	HOW	c a n m i n	ward1248	1
 13353	Warlmanpa	HOW	ɲ a p a	warl1255	5478
-13354	Warlpiri	HOW	ɲ a r p a ?	warl1254	5480
+13354	Warlpiri	HOW	ɲ a r p a ?/ʔ	warl1254	5480
 13355	Warluwara	HOW	t̪ a n d a ɭ a	warl1256	5464
 13356	Wanman	HOW	ŋ a n a m p a	wanm1242	5454
 13357	Wariyangga	HOW	t̪ a k a l a	wari1262	5471
-13358	Warumungu	HOW	ɲ a ŋ i r ?	waru1265	5478
+13358	Warumungu	HOW	ɲ a ŋ i r ?/ʔ	waru1265	5478
 13359	Warrungo	HOW	w a ɲ c a ŋ a l	waru1264	1
 13360	Wathawurrung	HOW	ɲ u r a n	wath1238	5480
 13361	Western Arrarnta	HOW	n t̪ a k e n̪ e	west2441	5468
 13362	Wik-Mungkan	HOW	w a n tː a k	wikm1247	5476
-13363	Wiradhuri	HOW	w i dː j a lː a ŋ a l u ?	wira1262	5445
+13363	Wiradhuri	HOW	w i dː j a lː a ŋ a l u ?/ʔ	wira1262	5445
 13364	Wirangu-Nauo	HOW	d̪ a m u	wira1260	5450
 13365	Yandruwandha	HOW	i l a j a ɳ d u	yand1253	5451
 13366	Yandruwandha	HOW	j a ɳ d u	yand1253	5451
@@ -12083,7 +12083,7 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 14291	Mudburra	KILL	p a r u	mudb1240	5843
 14293	Muruwari	KILL	p u	muru1266	5830
 14295	Ngaanyatjarra	KILL	j u l i ɳ t a n u	ngaa1240	5832
-14296	Ngadjunmaya	KILL	p u ŋ u ? i d c a	ngad1258	5868
+14296	Ngadjunmaya	KILL	p u ŋ u ?/ʔ i d c a	ngad1258	5868
 14297	Lower Riverland	KILL	m a ɭ p u n	lowe1402	5877
 14298	Ngamini	KILL	t a n k a n a	ngam1284	5850
 14299	North-western Warlpiri	KILL	p a l u	nort2753	5841
@@ -13057,7 +13057,7 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 15173	Mayi-Yapi	LEG	m u k u	mayi1235	6240
 15174	Mayi-Yapi	LEG	m u k u	mayi1235	6240
 15175	Mbabaram	LEG	ŋ g a ɹ	mbab1239	6261
-15176	Anguthimri	LEG	t̪ u ? u	angu1242	6224
+15176	Anguthimri	LEG	t̪ u ?/ʔ u	angu1242	6224
 15177	Mithaka	LEG	p i ɳ a	mith1236	6219
 15179	Mudburra	LEG	b i ɹ i d a	mudb1240	6206
 15181	Muruwari	LEG	d u n d u	muru1266	6216
@@ -14255,7 +14255,7 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 16932	Arabana	MOSQUITO	i w i n c a	arab1267	7036
 16933	Awabakal	MOSQUITO	t o p i g	awab1243	7018
 16934	Badimaya	MOSQUITO	ɲ i r g u	badi1246	7049
-16935	Badjiri	MOSQUITO	u d̪ i n ?	badj1244	7055
+16935	Badjiri	MOSQUITO	u d̪ i n ?/ʔ	badj1244	7055
 16936	Yugambeh-Bandjalang	MOSQUITO	m u n d u ɹ a	band1339	7070
 16937	Kabikabi	MOSQUITO	b oː m b a	kabi1260	7066
 16938	Southern Maric	MOSQUITO	b u d̪ a ɲ	sout2765	7022
@@ -14815,7 +14815,7 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 17541	Sydney	NAME	g i j a ɹ a	sydn1236	1
 17542	Jaru	NAME	j i ɹ i	jaru1254	7215
 17544	Djiwarli	NAME	w i r i	djiw1241	7229
-17545	Walmajarri	NAME	ŋ g a n a _ m a n _ j iː n i ?	walm1241	7229
+17545	Walmajarri	NAME	ŋ g a n a _ m a n _ j iː n i ?/ʔ	walm1241	7229
 17546	Kanju	NAME	m a n t̪ a l	kanj1260	7254
 17547	Kalkutung	NAME	i p a l	kalk1246	7231
 17548	Karadjeri	NAME	i ɹ a ɹ o	kara1476	7240
@@ -15565,7 +15565,7 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 18495	Mayi-Yapi	NO OR NOT	ŋ a m b i	mayi1235	7650
 18496	Mayi-Yapi	NO OR NOT	ŋ a m b i	mayi1235	7650
 18497	Mbabaram	NO OR NOT	a r i	mbab1239	7639
-18498	Anguthimri	NO OR NOT	ŋ g e ? e	angu1242	7687
+18498	Anguthimri	NO OR NOT	ŋ g e ?/ʔ e	angu1242	7687
 18499	Minjungbal	NO OR NOT	j o g u m	minj1242	7683
 18500	Kalarko	NO OR NOT	k u j a	kala1379	7688
 18501	Mithaka	NO OR NOT	w a k a l a	mith1236	7633
@@ -16371,7 +16371,7 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 19371	Wariyangga	OTHER	j a ɲ c a	wari1262	8038
 19372	Warumungu	OTHER	c a ʈ t i	waru1265	8011
 19373	Warrungo	OTHER	g u j a j ŋ a l	waru1264	1
-19374	Wathawurrung	OTHER	j a ɲ u k ?	wath1238	8052
+19374	Wathawurrung	OTHER	j a ɲ u k ?/ʔ	wath1238	8052
 19375	Wajuk	OTHER	p i l e	waju1234	1
 19376	Wik-Mungkan	OTHER	t̪ o n	wikm1247	8036
 19377	Wiradhuri	OTHER	ŋ u n b a i g u a l	wira1262	8027
@@ -18086,7 +18086,7 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 21060	Wathawurrung	SAY	w u r u k i	wath1238	8869
 21061	Western Arrarnta	SAY	ŋ k a m a	west2441	8887
 21062	Wik-Mungkan	SAY	t̪ a w	wikm1247	1
-21063	Wiradhuri	SAY	m i nː u _ a n d e j a e h ?	wira1262	8877
+21063	Wiradhuri	SAY	m i nː u _ a n d e j a e h ?/ʔ	wira1262	8877
 21064	Wirangu-Nauo	SAY	w a ŋ k a	wira1260	8887
 21065	Wulguru	SAY	j a b a	wulg1239	8912
 21066	Yabula Yabula	SAY	l o a c b i	yabu1234	8871
@@ -20900,7 +20900,7 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 24359	Warlpiri	SPLIT	l a r a j a n i	warl1254	10300
 24360	Warluwara	SPLIT	k u ɹ u ŋ a l ɣ a m a	warl1256	10281
 24361	Wanman	SPLIT	ɭ aː r p u	wanm1242	10273
-24362	Wariyangga	SPLIT	w a n d a b a l a ?	wari1262	10285
+24362	Wariyangga	SPLIT	w a n d a b a l a ?/ʔ	wari1262	10285
 24363	Warumungu	SPLIT	t i ɭ	waru1265	10262
 24364	Warrungo	SPLIT	b i c i l ŋ a	waru1264	10296
 24365	Wathawurrung	SPLIT	d u r u m a	wath1238	10301
@@ -22187,7 +22187,7 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 25887	Mudburra	SWIM	l i l a c	mudb1240	10951
 25889	Muruwari	SWIM	p aː ŋ k i	muru1266	10981
 25891	Ngaanyatjarra	SWIM	t c a r p a k u	ngaa1240	11019
-25892	Ngadjunmaya	SWIM	w a ? aː n d c u	ngad1258	10939
+25892	Ngadjunmaya	SWIM	w a ?/ʔ aː n d c u	ngad1258	10939
 25893	Ngadjuri	SWIM	m u ŋ a ɹ i	ngad1257	10968
 25894	Lower Riverland	SWIM	j a g u n	lowe1402	11016
 25895	Ngamini	SWIM	k u k u w a l r a	ngam1284	10938
@@ -22609,7 +22609,7 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 26366	Mayi-Yapi	THEY	t̪ a n a	mayi1235	11163
 26367	Mbabaram	THEY	n e	mbab1239	11163
 26368	Minjungbal	THEY	d j a n a b i	minj1242	11163
-26369	Kalarko	THEY	k a c i n i ?	kala1379	11188
+26369	Kalarko	THEY	k a c i n i ?/ʔ	kala1379	11188
 26370	Mithaka	THEY	t a n a	mith1236	11163
 26372	Mudburra	THEY	ŋ a l i ɲ a ŋ a l i ɲ a	mudb1240	11179
 26374	Muruwari	THEY	t̪ a n a	muru1266	11163
@@ -23361,7 +23361,7 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 27235	Ngaanyatjarra	THREE	m a ɳ k u r	ngaa1240	11488
 27236	Ngadjunmaya	THREE	w a r u l	ngad1258	11489
 27237	Lower Riverland	THREE	b oː l a _ oː n b o j i e	lowe1402	11518
-27238	Ngamini	THREE	p a ɹ k u n a _ ŋ a n̪ a ?	ngam1284	11545
+27238	Ngamini	THREE	p a ɹ k u n a _ ŋ a n̪ a ?/ʔ	ngam1284	11545
 27239	North-western Warlpiri	THREE	m u r k u n	nort2753	11538
 27240	Ngarigu	THREE	b u lː a m a t u ŋ	ngar1297	11544
 27241	Ngarinman	THREE	m u r g u n	ngar1235	11538
@@ -25016,7 +25016,7 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 29061	Mayi-Yapi	WATER	k a m u	mayi1235	12314
 29062	Mayi-Yapi	WATER	k a m u	mayi1235	12314
 29063	Mbabaram	WATER	g u g	mbab1239	12312
-29064	Anguthimri	WATER	p u ? a	angu1242	12334
+29064	Anguthimri	WATER	p u ?/ʔ a	angu1242	12334
 29065	Minjungbal	WATER	k oː ŋ	minj1242	12328
 29066	Kalarko	WATER	w a ɭ p i	kala1379	12353
 29067	Mithaka	WATER	ŋ a p a	mith1236	12316
@@ -25250,13 +25250,13 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 29543	Yugambeh-Bandjalang	WHAT	ɲ a ŋ	band1339	12533
 29544	Kabikabi	WHAT	m i ɲ a	kabi1260	12534
 29545	Bilinara	WHAT	ɲ a m b a	bili1250	12533
-29546	Biri	WHAT	u nː e _ t i nː a ?	biri1256	12511
+29546	Biri	WHAT	u nː e _ t i nː a ?/ʔ	biri1256	12511
 29547	Birrpayi	WHAT	k a i	birr1241	12516
 29548	Bunganditj	WHAT	n a n	bung1264	12533
 29549	Hawkesbury	WHAT	m a j i ŋ	hawk1239	12515
 29550	Dhangu	WHAT	n̪ æ	dhan1270	12533
 29551	Thurawal	WHAT	m i ŋ a ŋ	thur1254	12514
-29552	Sydney	WHAT	m i ŋ ?	sydn1236	12514
+29552	Sydney	WHAT	m i ŋ ?/ʔ	sydn1236	12514
 29553	Dharumbal	WHAT	m i ŋ a	dhar1248	1
 29554	Dayi	WHAT	n̪ æ	dayi1244	12533
 29555	Dhudhuroa	WHAT	m i ɲ u w a	dhud1236	12534
@@ -25282,11 +25282,11 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 29577	Gurindji	WHAT	ɲ a m p a	guri1247	12533
 29578	Guugu Yimidhirr	WHAT	ŋ aː n a j	gugu1255	12512
 29579	Guugu Yimidhirr	WHAT	ŋ a n a	gugu1255	12512
-29580	Guyani	WHAT	n a ŋ a p u n u ?	guya1249	12505
+29580	Guyani	WHAT	n a ŋ a p u n u ?/ʔ	guya1249	12505
 29581	Sydney	WHAT	ŋ a ŋ	sydn1236	1
 29582	Jaru	WHAT	n c a ɹ o	jaru1254	12508
 29584	Djiwarli	WHAT	n̪ aː	djiw1241	12533
-29585	Walmajarri	WHAT	ŋ g a n a _ m a n _ c u l a w u ?	walm1241	12512
+29585	Walmajarri	WHAT	ŋ g a n a _ m a n _ c u l a w u ?/ʔ	walm1241	12512
 29586	Kanju	WHAT	ŋ aː n i	kanj1260	12512
 29587	Kalkutung	WHAT	n̪ a k a	kalk1246	12517
 29588	Gamilaraay	WHAT	m i ɲ a	gami1243	12534
@@ -25298,7 +25298,7 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 29595	Gugadj	WHAT	ŋ a ɲ a	guga1239	1
 29596	Kukatja	WHAT	ŋ a n a	kuka1246	12512
 29597	Kuku-Yalanji	WHAT	w a ɲ u	kuku1273	12525
-29598	Kula (Australia)	WHAT	m i nː a ?	kula1275	12534
+29598	Kula (Australia)	WHAT	m i nː a ?/ʔ	kula1275	12534
 29599	Kurrama	WHAT	ŋ a n i	kurr1243	12512
 29600	Gurdjar	WHAT	n e j	gurd1238	12532
 29601	Kuuku-Ya'u	WHAT	ŋ aː n i	kuuk1238	12512
@@ -25317,17 +25317,17 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 29618	Mayi-Yapi	WHAT	ŋ a n i	mayi1235	12512
 29619	Mayi-Yapi	WHAT	ŋ a n i	mayi1235	12512
 29620	Mbabaram	WHAT	ɲ ɜ	mbab1239	12533
-29621	Minjungbal	WHAT	m i ɲ u ŋ ?	minj1242	12534
+29621	Minjungbal	WHAT	m i ɲ u ŋ ?/ʔ	minj1242	12534
 29622	Kalarko	WHAT	ŋ a ɳ t u ɳ i ɲ	kala1379	12535
 29623	Mithaka	WHAT	m i n a	mith1236	12534
 29625	Mudburra	WHAT	ŋ a d a r a	mudb1240	12503
 29627	Muruwari	WHAT	m i n c a n	muru1266	12534
 29628	Narungga	WHAT	a nː i	naru1238	12504
-29630	Ngaanyatjarra	WHAT	ɲ aː p a ?	ngaa1240	12533
-29631	Ngadjuri	WHAT	a ?	ngad1257	12502
+29630	Ngaanyatjarra	WHAT	ɲ aː p a ?/ʔ	ngaa1240	12533
+29631	Ngadjuri	WHAT	a ?/ʔ	ngad1257	12502
 29632	Ngamini	WHAT	w a n a n d a	ngam1284	12530
 29633	North-western Warlpiri	WHAT	ɲ a m p a	nort2753	12533
-29634	Ngarinman	WHAT	ɲ a m b a w a ɭ a ?	ngar1235	12533
+29634	Ngarinman	WHAT	ɲ a m b a w a ɭ a ?/ʔ	ngar1235	12533
 29635	Ngarla	WHAT	ŋ a n a ɲ a	ngar1296	12512
 29636	Ngarluma	WHAT	n̪ a l a	ngar1287	12523
 29637	Narrinyeri	WHAT	t i t p e l d	narr1259	12510
@@ -25361,15 +25361,15 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 29665	Umpila	WHAT	m u	umpi1239	12512
 29666	Wajarri	WHAT	n̪ aː	waja1257	12533
 29667	Wagaya	WHAT	n̪ a ŋ a ɭ	waga1260	12528
-29672	Wangganguru	WHAT	m i n a ?	wang1290	12534
+29672	Wangganguru	WHAT	m i n a ?/ʔ	wang1290	12534
 29673	Pintiini	WHAT	ɲ aː	pint1251	1
 29674	Ngura	WHAT	m i n̪ a	ngur1261	12534
 29675	Wardandi	WHAT	n a ŋ	ward1248	1
 29676	Warlmanpa	WHAT	ŋ a n a	warl1255	12512
-29677	Warlpiri	WHAT	ɲ i j a ?	warl1254	12536
+29677	Warlpiri	WHAT	ɲ i j a ?/ʔ	warl1254	12536
 29678	Wanman	WHAT	ŋ a n a	wanm1242	12512
 29679	Wariyangga	WHAT	n̪ aː	wari1262	12533
-29680	Warumungu	WHAT	ɲ a j i ?	waru1265	12533
+29680	Warumungu	WHAT	ɲ a j i ?/ʔ	waru1265	12533
 29681	Warrungo	WHAT	ŋ a n i	waru1264	12512
 29682	Wathawurrung	WHAT	w i ɲ a	wath1238	12513
 29683	Wadiwadi	WHAT	n c a ŋ e	wadi1249	1
@@ -25385,7 +25385,7 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 29693	Yandruwandha	WHAT	m i n̪ a j a	yand1253	12534
 29694	Yanyuwa	WHAT	ŋ a l̪ i	yany1243	12522
 29695	Yarluyandi	WHAT	m i n̪ a	yarl1238	12534
-29696	Yawarawarga	WHAT	m i n a ?	yawa1258	12534
+29696	Yawarawarga	WHAT	m i n a ?/ʔ	yawa1258	12534
 29697	Yidiñ	WHAT	w a ɲ a	yidi1250	12525
 29698	Yindjibarndi	WHAT	ŋ a n i	yind1247	12512
 29699	Yindjilandji	WHAT	ŋ a ŋ a ɹ l i	yind1248	12528
@@ -25415,7 +25415,7 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 29724	Djambarrpuyngu	WHEN	n̪ æ t̪ a	djam1256	12539
 29725	Djinang	WHEN	ɲ a d c i	djin1253	12539
 29727	Dyirbal	WHEN	m i ɲ a j	dyir1250	12538
-29728	Gamilaraay	WHEN	w e a r u ?	gami1243	12554
+29728	Gamilaraay	WHEN	w e a r u ?/ʔ	gami1243	12554
 29729	Kalali	WHEN	w i ɲ i	kala1380	12573
 29730	Kumbainggar	WHEN	c u g a r g a	kumb1268	12569
 29731	Northern Inland Yui	WHEN	w u n ʔ d a	nort2760	12573
@@ -25427,9 +25427,9 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 29737	Sydney	WHEN	w ɔ ɹ a ŋ a	sydn1236	1
 29738	Jaru	WHEN	ɲ a ŋ u l a l a	jaru1254	12559
 29740	Djiwarli	WHEN	w a n t̪ a ɖ a	djiw1241	12573
-29741	Walmajarri	WHEN	ŋ j a ŋ u ɭ a _ m a n _ t i k i j a n k u ?	walm1241	12559
+29741	Walmajarri	WHEN	ŋ j a ŋ u ɭ a _ m a n _ t i k i j a n k u ?/ʔ	walm1241	12559
 29742	Kalkutung	WHEN	n̪ i a ŋ u	kalk1246	12555
-29743	Gamilaraay	WHEN	w e a r u ?	gami1243	12554
+29743	Gamilaraay	WHEN	w e a r u ?/ʔ	gami1243	12554
 29744	Karadjeri	WHEN	ɲ a ŋ a ɹ a	kara1476	12559
 29746	Kariyarra	WHEN	ŋ a n i w a r a	kari1304	12548
 29748	Gathang	WHEN	w u n i g a ɹ a	gath1234	1
@@ -25455,7 +25455,7 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 29774	Lower Riverland	WHEN	m e k m u k u ɳ	lowe1402	12568
 29775	Ngamini	WHEN	w i n t c a	ngam1284	12573
 29776	North-western Warlpiri	WHEN	ɲ a ŋ u ɭ a	nort2753	12559
-29777	Ngarinman	WHEN	ɲ a ŋ u l a ?	ngar1235	12559
+29777	Ngarinman	WHEN	ɲ a ŋ u l a ?/ʔ	ngar1235	12559
 29778	Ngarluma	WHEN	n̪ a l a w a r a	ngar1287	12574
 29779	Narrinyeri	WHEN	u l a l	narr1259	12547
 29780	Ngiyambaa	WHEN	w i tː j u b a ɹ a	ngiy1239	12556
@@ -25467,7 +25467,7 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 29786	Nyangumarta	WHEN	ɲ a ŋ a	nyan1301	12559
 29787	Banggarla	WHEN	w a ɹ p a ɹ a	bang1339	12545
 29788	Bayungu	WHEN	w a n t̪ a ɖ a	bayu1240	12573
-29789	Pintupi-Luritja	WHEN	ŋ u r a _ j aː l t c i ŋ a ɹ a ?	pint1250	12563
+29789	Pintupi-Luritja	WHEN	ŋ u r a _ j aː l t c i ŋ a ɹ a ?/ʔ	pint1250	12563
 29790	Pintupi-Luritja	WHEN	ɲ aː l t c i ŋ a ɹ a	pint1250	12563
 29791	Pintupi-Luritja	WHEN	ɲ aː ŋ u l a	pint1250	12563
 29792	Pintupi-Luritja	WHEN	t c aː t u ŋ a ɹ a	pint1250	12563
@@ -25485,10 +25485,10 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 29804	Dhargari	WHEN	w a t̪ a ɖ a	dhar1247	12573
 29805	Umpila	WHEN	w a n t i l	umpi1239	12573
 29806	Wagaya	WHEN	w i n t̪ a m i ɳ i	waga1260	12573
-29809	Wangganguru	WHEN	u n k u l u ?	wang1290	12549
+29809	Wangganguru	WHEN	u n k u l u ?/ʔ	wang1290	12549
 29810	Pintiini	WHEN	ɲ aː ŋ k a	pint1251	1
 29811	Wanggamala	WHEN	w i n k u l u	wang1289	12565
-29812	Ngura	WHEN	w a n i ?	ngur1261	12573
+29812	Ngura	WHEN	w a n i ?/ʔ	ngur1261	12573
 29813	Wardandi	WHEN	ŋ i n d a	ward1248	1
 29814	Warlmanpa	WHEN	ɲ a ŋ u ɭ a	warl1255	12559
 29815	Warlpiri	WHEN	ɲ a ŋ u ɭ a ə	warl1254	12559
@@ -25516,7 +25516,7 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 #
 29838	Adnyamathanha	WHERE	w i j a	adny1235	12610
 29839	Aghu Tharnggalu	WHERE	r a j m b ə	aghu1254	12602
-29840	Alyawarr	WHERE	n t̪ e n̪ e l ?	alya1239	12610
+29840	Alyawarr	WHERE	n t̪ e n̪ e l ?/ʔ	alya1239	12610
 29841	Andegerebinha	WHERE	t̪ e	ande1247	12610
 29842	Arabana	WHERE	i n t c a l i	arab1267	12610
 29843	Awabakal	WHERE	w o n n u g	awab1243	12588
@@ -25531,7 +25531,7 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 29852	Yugambeh-Bandjalang	WHERE	w i	band1339	12587
 29853	Yugambeh-Bandjalang	WHERE	w i j n c i _ j	band1339	12587
 29854	Bilinara	WHERE	w a ɲ c i g a	bili1250	12610
-29855	Biri	WHERE	w u n t a _ m u r i ?	biri1256	12610
+29855	Biri	WHERE	w u n t a _ m u r i ?/ʔ	biri1256	12610
 29856	Bunganditj	WHERE	n a	bung1264	12582
 29857	Colac	WHERE	w o n _ d a l o ŋ	cola1237	12610
 29858	Hawkesbury	WHERE	w aː ŋ	hawk1239	12589
@@ -25567,14 +25567,14 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 29890	Sydney	WHERE	w ɔ ɹ i	sydn1236	1
 29891	Jaru	WHERE	w a n d c u g o	jaru1254	12610
 29893	Djiwarli	WHERE	w a n t̪ a	djiw1241	12610
-29894	Walmajarri	WHERE	w a ɲ c a r a ɭ a _ m a n _ w a ɳ t a ɳ i ?	walm1241	12610
+29894	Walmajarri	WHERE	w a ɲ c a r a ɭ a _ m a n _ w a ɳ t a ɳ i ?/ʔ	walm1241	12610
 29895	Kanju	WHERE	w a n t u	kanj1260	12610
 29896	Kalkutung	WHERE	a r a k a t̪ i	kalk1246	12590
-29897	Gamilaraay	WHERE	t̪ u lː a ?	gami1243	12584
+29897	Gamilaraay	WHERE	t̪ u lː a ?/ʔ	gami1243	12584
 29898	Karadjeri	WHERE	w a ɲ c a n i	kara1476	12610
 29900	Kariyarra	WHERE	w a ɲ c a ɭ a	kari1304	12610
 29902	Kartujarra	WHERE	w a ɲ c a	kart1247	12610
-29903	Karruwali	WHERE	w i ɖ o ŋ _ k e ɳ a ?	karr1236	12609
+29903	Karruwali	WHERE	w i ɖ o ŋ _ k e ɳ a ?/ʔ	karr1236	12609
 29904	Gathang	WHERE	w u n d a	gath1234	12610
 29905	Kaurna	WHERE	w aː	kaur1267	12610
 29906	Gugadj	WHERE	ŋ a t̪ e k a l	guga1239	12593
@@ -25600,7 +25600,7 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 29932	Mayi-Yapi	WHERE	w a n̪ t̪ a	mayi1235	12610
 29933	Mayi-Yapi	WHERE	w a n̪ t̪ a	mayi1235	12610
 29934	Mbabaram	WHERE	ɲ c a	mbab1239	12610
-29935	Minjungbal	WHERE	i lː e ?	minj1242	12587
+29935	Minjungbal	WHERE	i lː e ?/ʔ	minj1242	12587
 29936	Kalarko	WHERE	p a k u r i	kala1379	12595
 29937	Mithaka	WHERE	w a ɖ a l i	mith1236	12610
 29939	Mudburra	WHERE	ŋ a n a ŋ k a	mudb1240	12583
@@ -25608,13 +25608,13 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 29942	Muruwari	WHERE	t̪ i r a	muru1266	12590
 29943	Narungga	WHERE	w a n t i	naru1238	1
 29945	Ngaanyatjarra	WHERE	w a ɲ t c a	ngaa1240	12610
-29946	Ngaanyatjarra	WHERE	w a ɲ t c a t c a ?	ngaa1240	12610
-29947	Ngaanyatjarra	WHERE	j aː l t c i ?	ngaa1240	12610
+29946	Ngaanyatjarra	WHERE	w a ɲ t c a t c a ?/ʔ	ngaa1240	12610
+29947	Ngaanyatjarra	WHERE	j aː l t c i ?/ʔ	ngaa1240	12610
 29948	Lower Riverland	WHERE	t a d l a	lowe1402	12603
 29949	Ngamini	WHERE	w a ɹ a d a	ngam1284	12601
 29950	North-western Warlpiri	WHERE	w a n c i	nort2753	12610
 29951	Ngarigu	WHERE	w i ɹ g a ɹ a	ngar1297	12585
-29952	Ngarinman	WHERE	w a ɲ c i g a ?	ngar1235	12610
+29952	Ngarinman	WHERE	w a ɲ c i g a ?/ʔ	ngar1235	12610
 29953	Ngarla	WHERE	w a ɲ c a	ngar1296	12610
 29954	Ngarluma	WHERE	w a n t̪ a ɳ i	ngar1287	12610
 29955	Narrinyeri	WHERE	t a ŋ	narr1259	12586
@@ -25634,7 +25634,7 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 29969	Panytyima	WHERE	t̪ a ɳ i	pany1241	12606
 29970	Banggarla	WHERE	w a n a	bang1339	12610
 29971	Bayungu	WHERE	w a n t̪ a	bayu1240	12610
-29972	Pintupi-Luritja	WHERE	ŋ u r a _ j aː l t c i ŋ k a ?	pint1250	12614
+29972	Pintupi-Luritja	WHERE	ŋ u r a _ j aː l t c i ŋ k a ?/ʔ	pint1250	12614
 29973	Pintupi-Luritja	WHERE	ɲ aː l p a	pint1250	12614
 29974	Pintupi-Luritja	WHERE	ɲ aː l t c i	pint1250	12614
 29975	Pintupi-Luritja	WHERE	t c aː t u	pint1250	12614
@@ -25642,7 +25642,7 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 29977	Pintupi-Luritja	WHERE	w a ɲ t c a ɲ a	pint1250	12614
 29978	Pintupi-Luritja	WHERE	j aː l t c i	pint1250	12614
 29979	Pintupi-Luritja	WHERE	j aː l t c i j aː l t c i	pint1250	12614
-29980	Pitjantjatjara	WHERE	j aː l t c i ?	pitj1243	12612
+29980	Pitjantjatjara	WHERE	j aː l t c i ?/ʔ	pitj1243	12612
 29981	Pitta Pitta	WHERE	w i n̪ t̪ a	pitt1247	12610
 29982	Rirratjingu	WHERE	ŋ a l a	rirr1238	12580
 29983	Ritarungo	WHERE	ɳ i ŋ ˀn g a ɹ a	rita1239	12577
@@ -25652,22 +25652,22 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 29988	Wajarri	WHERE	t̪ aː g a	waja1257	12592
 29989	Wagaya	WHERE	w e n t̪ e ɹ i	waga1260	12610
 29995	Pintiini	WHERE	w a ɲ t c a t c a	pint1251	1
-29996	Ngura	WHERE	ŋ a l a ?	ngur1261	12580
+29996	Ngura	WHERE	ŋ a l a ?/ʔ	ngur1261	12580
 29997	Wardandi	WHERE	i n d c a l	ward1248	1
 29998	Warlmanpa	WHERE	w a n c i	warl1255	12610
-29999	Warlpiri	WHERE	ɲ a r p a ɹ a ?	warl1254	12579
+29999	Warlpiri	WHERE	ɲ a r p a ɹ a ?/ʔ	warl1254	12579
 30000	Warluwara	WHERE	t̪ a k a	warl1256	12592
 30001	Wanman	WHERE	w a ɲ c i r a	wanm1242	12610
 30002	Wariyangga	WHERE	t̪ a g a l a	wari1262	12592
-30003	Warumungu	WHERE	w a n c a ? _ w a ɲ a n tː a ? _ w a n c a tː a ?	waru1265	12610
+30003	Warumungu	WHERE	w a n c a ?/ʔ _ w a ɲ a n tː a ?/ʔ _ w a n c a tː a ?/ʔ	waru1265	12610
 30004	Warrungo	WHERE	w a ɲ c a	waru1264	12610
 30005	Wathawurrung	WHERE	w i j a	wath1238	12610
-30006	Wadiwadi	WHERE	w i n t̪ a e g n o _ w oː ʈ o ŋ i ?	wadi1249	12610
-30007	Wajuk	WHERE	w i n c eː ?	waju1234	12610
-30008	Wajuk	WHERE	w i ɲ i ?	waju1234	12610
-30009	Western Arrarnta	WHERE	n t̪ a n̪ a ?	west2441	12610
+30006	Wadiwadi	WHERE	w i n t̪ a e g n o _ w oː ʈ o ŋ i ?/ʔ	wadi1249	12610
+30007	Wajuk	WHERE	w i n c eː ?/ʔ	waju1234	12610
+30008	Wajuk	WHERE	w i ɲ i ?/ʔ	waju1234	12610
+30009	Western Arrarnta	WHERE	n t̪ a n̪ a ?/ʔ	west2441	12610
 30010	Wik-Mungkan	WHERE	w aː l i n	wikm1247	12599
-30011	Wiradhuri	WHERE	d̪ a g a ?	wira1262	12592
+30011	Wiradhuri	WHERE	d̪ a g a ?/ʔ	wira1262	12592
 30012	Wirangu-Nauo	WHERE	d̪ a l a ŋ a	wira1260	12584
 30013	Woiwurrung	WHERE	i ɲ d̪ a	woiw1237	12610
 30014	Wulguru	WHERE	ŋ a n d a	wulg1239	12593
@@ -25849,7 +25849,7 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 30207	Alyawarr	WHO	ŋ w u n̪ a i j	alya1239	12716
 30208	Andegerebinha	WHO	a ŋ w e n̪	ande1247	12716
 30209	Arabana	WHO	w a ɹ a	arab1267	12728
-30210	Awabakal	WHO	t o ?	awab1243	12720
+30210	Awabakal	WHO	t o ?/ʔ	awab1243	12720
 30211	Badimaya	WHO	ŋ a n a	badi1246	12726
 30212	Badjiri	WHO	w a c i n d a	badj1244	12728
 30213	Yugambeh-Bandjalang	WHO	ŋ eː n	band1339	12726
@@ -25918,11 +25918,11 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 30283	Mithaka	WHO	w a l u	mith1236	12717
 30285	Mudburra	WHO	ŋ a n a	mudb1240	12726
 30287	Muruwari	WHO	ŋ aː n a	muru1266	12726
-30288	Ngaanyatjarra	WHO	ŋ a n a l u ?	ngaa1240	12726
-30289	Ngaanyatjarra	WHO	ŋ a n a ɲ a ?	ngaa1240	12726
+30288	Ngaanyatjarra	WHO	ŋ a n a l u ?/ʔ	ngaa1240	12726
+30289	Ngaanyatjarra	WHO	ŋ a n a ɲ a ?/ʔ	ngaa1240	12726
 30290	Ngamini	WHO	w a ɹ a	ngam1284	12728
 30291	North-western Warlpiri	WHO	ŋ a n	nort2753	12726
-30292	Ngarinman	WHO	ŋ a n a ?	ngar1235	12726
+30292	Ngarinman	WHO	ŋ a n a ?/ʔ	ngar1235	12726
 30293	Ngarla	WHO	ŋ a n t u	ngar1296	1
 30294	Ngarluma	WHO	ŋ a n a	ngar1287	12726
 30295	Narrinyeri	WHO	k i d c a n u l i n	narr1259	12708
@@ -25944,7 +25944,7 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 30311	Bayungu	WHO	ŋ a n a	bayu1240	12726
 30312	Pintupi-Luritja	WHO	ŋ a n a ɲ a	pint1250	12726
 30313	Pintupi-Luritja	WHO	ɲ aː ɲ a	pint1250	12726
-30314	Pitjantjatjara	WHO	ŋ a n a ɲ a ?	pitj1243	12726
+30314	Pitjantjatjara	WHO	ŋ a n a ɲ a ?/ʔ	pitj1243	12726
 30315	Pitta Pitta	WHO	w a ɹ a	pitt1247	12728
 30316	Rirratjingu	WHO	j o l	rirr1238	12731
 30317	Ritarungo	WHO	w a ɹ a	rita1239	12728
@@ -25958,14 +25958,14 @@ ID	DOCULECT	CONCEPT	TOKENS	GLOTTOCODE	COGID
 30327	Ngura	WHO	w a ɹ a	ngur1261	12728
 30328	Wardandi	WHO	ŋ i n d	ward1248	1
 30329	Warlmanpa	WHO	ŋ a n a	warl1255	12726
-30330	Warlpiri	WHO	ŋ a n a ?	warl1254	12726
+30330	Warlpiri	WHO	ŋ a n a ?/ʔ	warl1254	12726
 30331	Warluwara	WHO	ŋ a ɹ a	warl1256	12715
 30332	Wanman	WHO	ŋ a n a	wanm1242	12726
 30333	Wariyangga	WHO	ŋ a n a	wari1262	12726
 30334	Warumungu	WHO	ɲ a j i	waru1265	12729
 30335	Warrungo	WHO	w a ɲ u	waru1264	12718
 30336	Wathawurrung	WHO	w e l a	wath1238	12709
-30337	Wajuk	WHO	ŋ a nː i ?	waju1234	12726
+30337	Wajuk	WHO	ŋ a nː i ?/ʔ	waju1234	12726
 30338	Western Arrarnta	WHO	ŋ w e n̪ e	west2441	12716
 30339	Wik-Mungkan	WHO	w eː ʔ	wikm1247	12719
 30340	Wiradhuri	WHO	ŋ a n d u	wira1262	12726
