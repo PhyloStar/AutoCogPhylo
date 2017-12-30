@@ -30,13 +30,12 @@ def turchin(wordlist):
 
 files = sorted(glob('data/data-*.tsv'))
 for f in files:
-    print('[i] Analyzing...', f)
     wl = Wordlist(f)
     turchin(wl)
     wl.output('tsv', filename='computed/'+f.split('/')[1].replace('data-',
         'turchin-')[:-4], ignore='all', prettify=False)
     wl.output('paps.nex', ref='turchinid', missing='?',
             filename='nexus/'+f.split('/')[1].replace('data', 'turchin')[:-4])
-    p, r, f = bcubes(wl, 'cogid', 'turchinid', pprint=False)
-    print('... {0:.2f} {1:.2f} {2:.2f}'.format(p, r, f))
+    p, r, fc = bcubes(wl, 'cogid', 'turchinid', pprint=False)
+    print(f.split('/')[1][:-4].replace('data-', ''), '| {0:.2f} | {1:.2f} | {2:.2f}'.format(p, r, fc))
 

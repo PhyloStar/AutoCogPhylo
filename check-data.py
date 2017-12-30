@@ -207,7 +207,7 @@ def write_wordlist(wordlist, where):
                     tks += [t]
         tks = ' '.join(tks).split(' ')
 
-        sca, dolgo, asjp = [' '.join(tokens2class(tks, x)) for x in ['sca', 'asjp', 'dolgo']]
+        sca, asjp, dolgo = [' '.join(tokens2class(tks, x)) for x in ['sca', 'asjp', 'dolgo']]
         D[idx] = [d, iso, c, cid, form, tks, asjp, dolgo, sca,
                 cc, cogid]
     Wordlist(D).output('tsv', filename='data/'+filename, ignore='all',
