@@ -212,6 +212,7 @@ def write_wordlist(wordlist, where):
                 cc, cogid]
     Wordlist(D).output('tsv', filename='data/'+filename, ignore='all',
             prettify=False)
+    Wordlist(D).output('paps.nex', filename='nexus/'+filename, missing="?")
     if errors:
         for error, count in errors.items():
             print('!', error, count)
