@@ -14,7 +14,7 @@ for svm_outf in glob.iglob("svmClustering/results/data-*"):
     f = open(svm_outf, "r")
 
     header = f.readline().replace("\n","").split("\t")
-    doc_idx, svmcc_idx = [header.index(h) for h in ["DOCULECT", "svmCC"]]
+    doc_idx, svmcc_idx = [header.index(h) for h in ["DOCULECT", "INFERRED_CLASS"]]
     
     for line in f:
         arr = line.split("\t")
