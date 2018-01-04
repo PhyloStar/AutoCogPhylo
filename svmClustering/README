@@ -1,0 +1,25 @@
+Code and data for SVM clustering in the sense of Jäger, List & Sofroniev 2017
+-----------------------------------------------------------------------------
+
+
+REQUIREMENTS
+
+- python 2.7
+- numpy 1.13.3
+- pandas 0.17.1
+- python-igraph 0.7.1
+- lingpy 2.6.2
+- biopython 1.66
+- scipy 1.0.0
+- sklearn 0.17.0
+
+
+WORKFLOW
+
+> cd code
+> python2.7 svmClustering.py [dataset].tsv
+
+
+The program expects the data file in data/, and it writes the result into results/.
+The result file extends the input file by two columns, containing the SVM- and LexStat
+cognate classes.
