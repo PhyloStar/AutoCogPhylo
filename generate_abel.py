@@ -37,7 +37,7 @@ for fname in glob.glob("glottcode_nexus/*nex"):
     outname = fname.replace(".nex","")+".sh"
     generic_name = fname.split("/")[-1].replace(".nex","")
     fw = open(outname, "w")
-    print("#!/bin/bash","# Job name:","#SBATCH --job-name="+generic_name, "#","# Project:","#SBATCH --account=nn9106k", "#", "# Wall clock limit:", "#SBATCH --time=5:00:00", "#", "# Max memory usage:","#SBATCH --mem-per-cpu=1G", "# Number of tasks (cores):", "#SBATCH --ntasks=6", "## Set up job environment:", "source /cluster/bin/jobsetup", "module purge   # clear any inherited modules", "set -o errexit # exit on errors", "module load intelmpi.intel/5.0.2", sep="\n", file=fw)
+    print("#!/bin/bash","# Job name:","#SBATCH --job-name="+generic_name, "#","# Project:","#SBATCH --account=nn9106k", "#", "# Wall clock limit:", "#SBATCH --time=12:00:00", "#", "# Max memory usage:","#SBATCH --mem-per-cpu=1G", "# Number of tasks (cores):", "#SBATCH --ntasks=6", "## Set up job environment:", "source /cluster/bin/jobsetup", "module purge   # clear any inherited modules", "set -o errexit # exit on errors", "module load intelmpi.intel/5.0.2", sep="\n", file=fw)
     print("cp /usit/abel/u1/tarakark/glottcode_nexus/"+generic_name+".mb $SCRATCH", file=fw)
     print("cp /usit/abel/u1/tarakark/glottcode_nexus/"+generic_name+".nex $SCRATCH", file=fw)
     print("cp -r /usit/abel/u1/tarakark/mrbayes-coal/mrbayes-3.2.6/ $SCRATCH", file=fw)
