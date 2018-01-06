@@ -1,15 +1,19 @@
 library(ape)
 files <- list.files(path="/home/tarakark/AutoCogPhylo/glottcode_nexus_out", pattern="*.run1.t$", full.names=T, recursive=FALSE)
 lapply(files, function(x) {
-print(x)
+
 fname <- paste(x,".nwk",sep="")
 
-if(!file.exists(fname) & !grepl("-pn-", fname)){
-
+# 
+if(!file.exists(fname) & grepl("-ie-", fname)){
+print(x)
 t <- read.nexus(x)
-if(grepl("-st-", fname){
-t <- drop.tip(t,"irrr1420")
+if(grepl("svm", fname)){
+t<- lapply(t, drop.tip,tip=c("irrr1240"))
+class(t)<-"multiPhylo"
+#t <- drop.tip(t,"irrr1240")
 }
-write.tree(t, file=fname)}
+write.tree(t, file=fname)
+}
 }
 )

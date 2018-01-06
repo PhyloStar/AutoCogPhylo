@@ -2,10 +2,6 @@ from ete3 import Tree
 from collections import defaultdict
 import sys, glob
 
-leaves_list = ["anci1242", "czec1258", "dutc1256"]
-
-#leaves_list = open("ie.tree", "r").read().splitlines()
-
 exclude_leaves = ["irrr1240"]
 
 for fname in glob.glob("../glottcode_nexus/svm*.nex"):
@@ -23,7 +19,7 @@ for fname in glob.glob("../glottcode_nexus/svm*.nex"):
     for leaf in leaves_list:
         if leaf in exclude_leaves:
             print(leaf)
-    print(leaves_list)
+    print(family, leaves_list, len(leaves_list))
     t.prune(leaves_list)
 
     t.write(format=9, outfile=family+".glot.tre")
