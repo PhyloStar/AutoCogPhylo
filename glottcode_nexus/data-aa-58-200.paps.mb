@@ -1,0 +1,8 @@
+execute data-aa-58-200.paps.nex;
+prset brlenspr = clock:uniform;
+prset clockvarpr = igr;
+lset coding=noabsencesites rates=gamma;
+mcmcp ngen=15000000 samplefreq=1000 nruns=2 nchains=3;
+mcmc;
+sump;
+sumt;
