@@ -1,6 +1,9 @@
 # AutoCogPhylo
 Repository for testing how good Bayesian phylogenetic algorithms fare with automated vs gold cognate judgments
 
+[![DOI](https://zenodo.org/badge/87662200.svg)](https://zenodo.org/badge/latestdoi/87662200)
+
+
 # Requirements
 
 - lingpy >= 2.6.1
