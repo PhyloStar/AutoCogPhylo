@@ -1,7 +1,7 @@
 # AutoCogPhylo
 Repository for testing how good Bayesian phylogenetic algorithms fare with automated vs gold cognate judgments
 
-[![DOI](https://zenodo.org/badge/87662200.svg)](https://zenodo.org/badge/latestdoi/87662200)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1218060.svg)](https://doi.org/10.5281/zenodo.1218060)
 
 
 # Requirements
